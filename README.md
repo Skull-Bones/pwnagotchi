@@ -1,4 +1,5 @@
 # Pwnagotchi
+**Raspberry Pi Zero W (ARMv6) users:** see [ARMV6-FIX.md](ARMV6-FIX.md) if Pwnagotchi restart-loops in AUTO mode.
 This is the main source for all forks:
 - RPiZeroW (32bit) older versions work, no more new releases as it now more a legacy device
 - RPiZero2W, RPi3, RPi4, RPi5 (64bit)
